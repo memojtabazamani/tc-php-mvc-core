@@ -6,10 +6,10 @@
  * Time: 05:09 PM
  */
 
-namespace app\core\db;
+namespace crazyprogrammer\phpmvc\db;
 
 
-use app\core\Application;
+use crazyprogrammer\phpmvc\Application;
 use app\models\Model;
 
 #[\AllowDynamicProperties]

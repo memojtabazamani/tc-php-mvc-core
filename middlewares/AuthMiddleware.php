@@ -6,11 +6,11 @@
  * Time: 06:32 PM
  */
 
-namespace app\core\middlewares;
+namespace crazyprogrammer\phpmvc\middlewares;
 
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use crazyprogrammer\phpmvc\Application;
+use crazyprogrammer\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

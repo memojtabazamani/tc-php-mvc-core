@@ -6,7 +6,7 @@
  * Time: 07:03 PM
  */
 
-namespace app\core\exception;
+namespace crazyprogrammer\phpmvc\exception;
 
 
 class NotFoundException extends \Exception

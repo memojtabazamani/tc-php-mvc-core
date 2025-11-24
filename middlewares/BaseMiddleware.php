@@ -6,7 +6,7 @@
  * Time: 06:30 PM
  */
 
-namespace app\core\middlewares;
+namespace crazyprogrammer\phpmvc\middlewares;
 
 
 abstract class BaseMiddleware

@@ -11,15 +11,10 @@
             "email": "memojtabazamani@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/memojtabazamani/tc-php-mvc-core"
-        },
-        {
-            "type": "composer",
-            "url": "https://svn.amh.net.au:8002"
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "crazyprogrammer\\phpmvc\\": "./"
         }
-    ],
-    "require": {}
+    },
 }

@@ -6,10 +6,10 @@
  * Time: 09:02 PM
  */
 
-namespace app\core;
+namespace crazyprogrammer\phpmvc;
 
 
-use app\core\db\DbModel;
+use crazyprogrammer\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

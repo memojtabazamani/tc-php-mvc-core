@@ -1,10 +1,10 @@
 <?php
 
-namespace app\core;
+namespace crazyprogrammer\phpmvc;
 
 use app\controllers\Controller;
-use app\core\exception\NotFoundException;
-use app\core\Request;
+use crazyprogrammer\phpmvc\exception\NotFoundException;
+use crazyprogrammer\phpmvc\Request;
 
 class Router
 {

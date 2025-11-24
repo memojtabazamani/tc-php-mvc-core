@@ -6,7 +6,7 @@
  * Time: 07:46 PM
  */
 
-namespace app\core\Form;
+namespace crazyprogrammer\phpmvc\Form;
 
 
 class TextAreaField extends BaseField

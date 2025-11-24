@@ -6,7 +6,7 @@
  * Time: 07:36 PM
  */
 
-namespace app\core\Form;
+namespace crazyprogrammer\phpmvc\Form;
 
 
 use app\models\Model;

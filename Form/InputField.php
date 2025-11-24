@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace app\core\Form;
+namespace crazyprogrammer\phpmvc\Form;
 
 use app\models\Model;
 

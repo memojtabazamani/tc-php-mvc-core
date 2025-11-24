@@ -6,7 +6,7 @@
  * Time: 06:40 PM
  */
 
-namespace app\core\exception;
+namespace crazyprogrammer\phpmvc\exception;
 
 
 class ForbiddenException extends \Exception

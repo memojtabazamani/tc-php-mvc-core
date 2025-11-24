@@ -1,10 +1,10 @@
 <?php
 
-namespace app\core;
+namespace crazyprogrammer\phpmvc;
 
 use app\controllers\Controller;
-use app\core\db\Database;
-use app\core\db\DbModel;
+use crazyprogrammer\phpmvc\db\Database;
+use crazyprogrammer\phpmvc\db\DbModel;
 use app\models\User;
 
 /**

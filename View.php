@@ -6,7 +6,7 @@
  * Time: 07:07 PM
  */
 
-namespace app\core;
+namespace crazyprogrammer\phpmvc;
 
 
 class View

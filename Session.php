@@ -6,7 +6,7 @@
  * Time: 06:21 PM
  */
 
-namespace app\core;
+namespace crazyprogrammer\phpmvc;
 
 
 class Session
